@@ -29,7 +29,7 @@ namespace Model.Runtime.Projectiles
             float maxHeight = totalDistance * 0.6f;
 
             localHeight = maxHeight * (-(t * 2 - 1) * (t * 2 - 1) + 1);
-            ///////////////////////////////////////
+            //////////////////////////////////////////
 
 
             ///////////////////////////////////////
@@ -43,3 +43,4 @@ namespace Model.Runtime.Projectiles
     }
 
 }
+
